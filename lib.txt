@@ -1,0 +1,150 @@
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\Sharp\dll\x64
+Loading DLL msvcr120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\Sharp\dll\x64
+Loading DLL msvcp120
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\Sharp\dll\x64
+Loading DLL opencv_world300
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\Sharp\dll\x64
+Loading DLL opencv_ffmpeg300_64
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\Sharp\dll\x64
+Loading DLL OpenCvSharpExtern
+dlldir dll
+paths x64 ... E:\Development\TrackMyBalls\Assets\Plugins\dll\x64

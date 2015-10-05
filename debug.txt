@@ -1,0 +1,214 @@
+Loading DLL msvcr120
+trying assembly domain msvcr120
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+Loading DLL msvcr120
+trying assembly domain msvcr120
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+Loading DLL msvcr120
+trying assembly domain msvcr120
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+Loading DLL msvcr120
+trying assembly domain msvcr120
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+Loading DLL msvcr120
+trying assembly domain msvcr120
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+Loading DLL msvcr120
+trying assembly domain msvcr120
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+Loading DLL msvcr120
+trying assembly domain msvcr120
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+Loading DLL msvcr120
+trying assembly domain msvcr120
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+Loading DLL msvcr120
+trying assembly domain msvcr120
+trying app domain msvcr120
+ad bd 
+trying working directory msvcr120
+E:\Development\TrackMyBalls\Assets\Plugins\OpenCV.Net.dll
+wd: msvcr120 E:\Development\TrackMyBalls\Assets\Plugins 140727897161728
+Loading DLL msvcp120
+msvcr120
+trying assembly domain msvcp120
+trying app domain msvcp120
+ad bd 
+trying working directory msvcp120
+E:\Development\TrackMyBalls\Assets\Plugins\OpenCV.Net.dll
+wd: msvcp120 E:\Development\TrackMyBalls\Assets\Plugins 140727861968896
+Loading DLL opencv_world300
+msvcr120
+msvcp120
+trying assembly domain opencv_world300
+trying app domain opencv_world300
+ad bd 
+trying working directory opencv_world300
+E:\Development\TrackMyBalls\Assets\Plugins\OpenCV.Net.dll
+wd: opencv_world300 E:\Development\TrackMyBalls\Assets\Plugins 140727721721856
+Try Load FFMPEG
+Loading DLL opencv_ffmpeg300_64
+msvcr120
+msvcp120
+opencv_world300
+trying assembly domain opencv_ffmpeg300_64
+trying app domain opencv_ffmpeg300_64
+ad bd 
+trying working directory opencv_ffmpeg300_64
+E:\Development\TrackMyBalls\Assets\Plugins\OpenCV.Net.dll
+wd: opencv_ffmpeg300_64 E:\Development\TrackMyBalls\Assets\Plugins 1719926784
+Loading DLL OpenCvSharpExtern
+msvcr120
+msvcp120
+opencv_world300
+opencv_ffmpeg300_64
+trying assembly domain OpenCvSharpExtern
+trying app domain OpenCvSharpExtern
+ad bd 
+trying working directory OpenCvSharpExtern
+E:\Development\TrackMyBalls\Assets\Plugins\OpenCV.Net.dll
+wd: OpenCvSharpExtern E:\Development\TrackMyBalls\Assets\Plugins 493944832
