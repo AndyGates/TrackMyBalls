@@ -47,12 +47,14 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallDetection.cs" />
      <Compile Include="Assets\Scripts\CVTest.cs" />
+     <Compile Include="Assets\Scripts\CvMatBase.cs" />
      <Compile Include="Assets\Scripts\External\Parallel.cs" />
      <Compile Include="Assets\Scripts\IPWebcamTexture.cs" />
      <Compile Include="Assets\Scripts\MatEvent.cs" />
      <Compile Include="Assets\Scripts\MatToTexture.cs" />
      <Compile Include="Assets\Scripts\SingletonBehaviour.cs" />
      <Compile Include="Assets\Scripts\ThresholdFilter.cs" />
+     <Compile Include="Assets\Scripts\Utility\CVTextureUtility.cs" />
      <Compile Include="Assets\Scripts\VideoCapture.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>E:/ProgramFiles/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>

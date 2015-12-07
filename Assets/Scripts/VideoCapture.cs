@@ -5,7 +5,7 @@ using Emgu.CV.CvEnum;
 using Uk.Org.Adcock.Parallel;
 using UnityEngine.Events;
 
-public class VideoCapture : MonoBehaviour
+public class VideoCapture : CvMatBase
 {
 	[System.Serializable]
 	public enum VideoCaptureType
@@ -31,7 +31,7 @@ public class VideoCapture : MonoBehaviour
 
 	[SerializeField]
 	ThresholdFilter m_filter;
-
+	
 	Capture m_cap;
 	
 	int m_originalWidth;
@@ -72,8 +72,9 @@ public class VideoCapture : MonoBehaviour
 	}
 	
 	// Update is called once per frame
-	void Update ()
+	protected override void Update ()
 	{
+		base.Update();
 		if(m_running)
 		{
 			Mat image = new Mat(new System.Drawing.Size(m_originalWidth, m_originalHeight), DepthType.Cv8U, 3);  
@@ -88,6 +89,8 @@ public class VideoCapture : MonoBehaviour
 			Mat smaller = new Mat(new System.Drawing.Size(m_width, m_height), DepthType.Cv8U, 3);
 			CvInvoke.Resize(image, smaller, new System.Drawing.Size(m_width, m_height));
 			CvInvoke.Flip(smaller, smaller, FlipType.Vertical);
+
+			DebugMat = smaller;
 
 			if(m_onFrame != null) m_onFrame.Invoke(smaller);
 

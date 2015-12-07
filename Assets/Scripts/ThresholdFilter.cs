@@ -48,29 +48,33 @@ public class ThresholdFilter : MonoBehaviour
 
 		CvInvoke.InRange(src, new ScalarArray(min), new ScalarArray(max), threshold);
 
-		//Mat element = CvInvoke.GetStructuringElement(ElementShape.Rectangle, new Size(3,3), Point.Empty);
-		//CvInvoke.Erode(threshold, threshold, element, Point.Empty, 1, BorderType.Constant, new MCvScalar(1.0f));
-		//CvInvoke.Canny(threshold, threshold, 100, 255);
+		Mat element = CvInvoke.GetStructuringElement(ElementShape.Rectangle, new Size(3,3), Point.Empty);
+		CvInvoke.Erode(threshold, threshold, element, Point.Empty, 1, BorderType.Constant, new MCvScalar(1.0f));
+		CvInvoke.Canny(threshold, threshold, 100, 255);
 
 		VectorOfVectorOfPoint contours = new VectorOfVectorOfPoint();
 		Mat hierarchy = new Mat();
 
-		//CvInvoke.FindContours(threshold, contours, hierarchy, RetrType.Tree, ChainApproxMethod.ChainApproxSimple, Point.Empty);
+		 CvInvoke.FindContours(threshold, contours, hierarchy, RetrType.Tree, ChainApproxMethod.ChainApproxSimple, Point.Empty);
 
-		Mat draw = new Mat(src.Height, src.Width, src.Depth, src.NumberOfChannels);
-
+		Mat draw = new Mat(src.Height, src.Width, src.Depth, 1);
+		draw.SetTo(new MCvScalar(0.0));
 		int i = 0;
+
+		//Debug.Log("CONTOURS");
 
 		var contoursArray = contours.ToArrayOfArray();
 		foreach(Point[] contour in contoursArray)
 		{
-			//CvInvoke.DrawContours(draw, contours, i, new MCvScalar(0.0, 1.0, 0.0), 1, LineType.EightConnected, null, int.MaxValue, Point.Empty);
+			CvInvoke.DrawContours(draw, contours, i, new MCvScalar(255.0), 1, LineType.EightConnected, null, int.MaxValue, Point.Empty);
 
          	double a = CvInvoke.ContourArea(new VectorOfPoint(contour));
 			//Debug.Log("Contour: " + a);
 			i++;
 		}
 
-		if(m_onFrame != null) m_onFrame.Invoke(threshold);
+		//Emgu.CV.UI.ImageViewer.Show(draw, "test");
+
+		if(m_onFrame != null) m_onFrame.Invoke(draw);
 	}
 }
